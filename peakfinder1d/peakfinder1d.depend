@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1451065661 source:f:\projects\peakfinder1d\main.c
+	<stdio.h>
+	<stdlib.h>
+
